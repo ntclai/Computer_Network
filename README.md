@@ -3,6 +3,6 @@
 
 Repo containing projects for Computer Network course| HCMUS
 
-Project01: WIRESHARK
+Project02: WIRESHARK
 
-Porject02: PACKET TRACER
+Porject03: PACKET TRACER
